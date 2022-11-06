@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GetBackgroundLocation</string>
+
+    <string name="service_already_running">Service is already running</string>
+    <string name="service_start_successfully">Service started successfully</string>
+    <string name="gps_enable">GPS enable</string>
+    <string name="please_turn_on_gps">Please turn on GPS</string>
+    <string name="ok">OK</string>
+
+
+    <string name="background_location_permission_message">
+       <b>Allow only while using the app</b> permission has been granted. If you want
+        to get location updates in the background even when not using the app then grant
+        <b>Allow all the time</b> permission
+    </string>
+    <string name="location_update">Location updates:</string>
+    <string name="channel_name">Background Service</string>
+    <string name="channel_id">Background_Service</string>
+    <string name="permission_required">Permission required</string>
+    <string name="latitude">\"Latitude: \"</string>
+    <string name="longitude">\"Longitude: \"</string>
+    <string name="dialog_title">Background permission</string>
+    <string name="dialog_okay_title">Start service anyway</string>
+    <string name="dialog_negative_title">Grant background Permission</string>
+    <string name="access_fine_location">ACCESS_FINE_LOCATION</string>
+    <string name="location_required">Location permission required</string>
+    <string name="service_stopped">Service stopped!!</string>
+    <string name="already_stopped">Service already stopped!!</string>
+    <string name="fine_location_denied">ACCESS_FINE_LOCATION permission denied</string>
+    <string name="location_permission_granted">Background location Permission Granted</string>
+    <string name="location_permission_denied">Background location permission denied</string>
+
+</resources>
